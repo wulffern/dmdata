@@ -1,0 +1,4 @@
+[submodule "nrfdmiq"]
+	path = nrfdmiq
+	url = https://github.com/wulffern/nrfdmiq.git
+	branch = main
